@@ -1,1 +1,1 @@
-DATABASE_URL = 'postgresql://postgres:OurThesisforETEEAP2026@db.zoakwkxwoyhpgjlvwtgi.supabase.co:5432/postgres'
+DATABASE_URL = 'postgresql://postgres.zoakwkxwoyhpgjlvwtgi:OurThesisforETEEAP2026@aws-1-ap-south-1.pooler.supabase.com:5432/postgres'
